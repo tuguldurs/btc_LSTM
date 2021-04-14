@@ -5,7 +5,7 @@ bitcoin price data. The data are retrieved through the API of blockchain.info as
 major exchanges. The notebook also includes a brief analysis and a discussion on optimizers and loss functions.
 
 
-![](header.png)
+![](./plots/header.png)
 
 ## Installation
 
