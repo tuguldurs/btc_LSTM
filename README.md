@@ -18,7 +18,7 @@ Tuguldur Sukhbold – tuguldur.s@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/tuguldurs/btc_LSTM](https://github.com/dbader/)
+[https://github.com/tuguldurs/btc_LSTM](https://github.com/tuguldurs)
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
